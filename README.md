@@ -29,7 +29,7 @@ O projeto foi desenvolvido utilizando as seguintes tecnologias
     $ git clone https://github.com/LeonardoGabrielSanches/Conceitos_React_native
 
     # Entrar no diretório
-    $ cd mobile
+    $ cd Conceitos_React_native
 
     # Instalar as dependências
     $ yarn install
